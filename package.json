@@ -33,8 +33,8 @@
   "author": "Mithun Reddy Lacchannagari",
   "license": "MIT"
 },
-
 "publishConfig": {
-    "registry": "http://15.206.81.210:8081/repository/node1-repo/"
+    "registry": "http://15.206.81.210:8081/repository/npm-hosted-all/"
+  }
 }
 
